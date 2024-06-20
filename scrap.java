@@ -5,7 +5,7 @@ import org.jsoup.select.Elements;
 
 import java.io.IOException;
 
-public class ScrapingExample {
+public class Scrap {
 
     public static void main(String[] args) {
         String url = "https://moonani.com/PokeList/";
